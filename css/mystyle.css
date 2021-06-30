@@ -1,6 +1,6 @@
 iframe {
     width: 50% !important;
-    height: 100% !important;
+    height: auto !important;
     margin: 0 auto;
     display: block;
   }
