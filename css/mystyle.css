@@ -10,3 +10,7 @@ iframe {
     color: #0a0a0a;
     font-size: 20px;
   }
+
+  .frame-border {
+    border: 3px solid #0a0a0a;
+  }
